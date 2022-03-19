@@ -1,3 +1,19 @@
+## File Generati
+- azienda_refactor.py
+- bilancia_refactor.py
+- chiamate_refactor.py
+- datimanuali_refactor.py
+- previsionale_refactor.py
+- quesito_refactor.py
+- rating_refactor.py
+- report_refactor.py
+- studio_refactor.py
+- util_refactor.py
+- query.py >>> __NUOVO__ file che contiene alcune query complesse, precedentemente scritte (a mio avviso impropriamente) direttamente nelle classi dei Model
+
+
+## Endpoint sottoposti a refactor
+
 ### GESTIONE STUDIO
 - endpoint _creazionestudio.php_
 	- `studio.py:creazionestudio()`
@@ -136,17 +152,3 @@
 	- `xbrl.py:get_rating_isa()`
 	- `query.py:xf03_get_indici()`
 	- `xbrl.py:importaxbrl_fase2()`
-
-
-### File Generati
-- azienda_refactor.py
-- bilancia_refactor.py
-- chiamate_refactor.py
-- datimanuali_refactor.py
-- previsionale_refactor.py
-- quesito_refactor.py
-- rating_refactor.py
-- report_refactor.py
-- studio_refactor.py
-- util_refactor.py
-- query.py >>> __NUOVO__ file che contiene alcune query complesse, precedentemente scritte (a mio avviso impropriamente) direttamente nelle classi dei Model
