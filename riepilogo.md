@@ -9,7 +9,7 @@
 - report_refactor.py
 - studio_refactor.py
 - util_refactor.py
-- query.py >>> __NUOVO__ file che contiene alcune query complesse, precedentemente scritte (a mio avviso impropriamente) direttamente nelle classi dei Model
+- query.py >>> __NUOVO__ file che contiene alcune query complesse, precedentemente scritte direttamente nelle classi dei Model
 
 
 ## Endpoint sottoposti a refactor
