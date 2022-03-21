@@ -86,9 +86,28 @@
 
 
 ### QUEST:
-- TODO segnare endpoint questdomande*, questrisposte*, questresult*  (TODO test)
-
-- creazionequest*, delquest*, questionaricaricati
+- endpoint questdomandeisa.php
+	- `quesito.py:questdomandeisa()`
+- endpoint questdomandeorg.php
+	- `quesito.py:questdomandeorg()`
+- endpint questrisposteisa.php
+	- `quesito.py:questrisposteisa()`
+- endpint questrisposteorg.php
+	- `quesito.py:questrisposteorg()`
+- endpint questresultisa.php
+	- `quesito.py:questresultisa()`
+- endpint questresultorg.php
+	- `quesito.py:questresultorg()`
+- endpint creazionequestisa.php
+	- `quesito.py:creazionequestisa()`
+- endpint creazionequestorg.php
+	- `quesito.py:creazionequestorg()`
+- endpint delquestisa.php
+	- `quesito.py:delquestisa()`
+- endpint delquestorg.php
+	- `quesito.py:delquestorg()`
+- endpoint questionaricaricati.php
+	- `quesito.py:questionaricaricati()`
 
 
 ### BILANCIO PREVISIONALE
